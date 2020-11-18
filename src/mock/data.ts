@@ -1,5 +1,7 @@
 import harryPotter from "../assets/HP.png";
 import cidadeDosOssos from "../assets/cidade-dos-ossos.png";
+import got from "../assets/got.jpg";
+import banana from "../assets/banana.jpg";
 
 export const books = [
   {
@@ -29,49 +31,49 @@ export const books = [
     image: cidadeDosOssos,
     details: {
       image: cidadeDosOssos,
-      title_original: "",
-      genre: "",
-      author: "",
-      source: "",
-      description: "",
-      preview: "",
-      price: 0.0
+      title_original: "City of Bones",
+      genre: "Fantasia/Aventura",
+      author: "Cassandra Clare",
+      source: "Estados Unidos",
+      description: "A história, narrada em terceira pessoa, se passa em uma Manhattan contemporânea. O livro é dividido em vinte e três capítulos e a protagonista é Clairy Fray, uma menina ruiva, baixinha e com sardas, de quinze anos, aparentemente normal, nascida e criada no Brooklyn. A garota vive com a mãe, Jocelyn Fray, uma jovem e talentosa artista viúva, e tem Simon como melhor amigo de infância.",
+      preview: "Tenha acesso ao primeiro capítulo do livro por tempo determinado e aproveite sua experiência.",
+      price: 35.89
     }
   },
   {
     id: 2,
-    name: "Harry Potter e a Criança Amaldiçoada",
-    genre: "Infanto Juvenil",
-    year: "12",
+    name: "A Guerra dos Tronos",
+    genre: "Fantasia",
+    year: "24",
     rating: 5,
-    image: harryPotter,
+    image: got,
     details: {
-      image: harryPotter,
-      title_original: "Harry Potter and The Cursed Child",
-      genre: "Infanto Juvenil",
-      author: "J.K ROWLING",
-      source: "Inglaterra",
-      description: "",
-      preview: "",
-      price: 25.90
+      image: got,
+      title_original: "A Game Of Thrones",
+      genre: "Fantasia",
+      author: "George R. R. Martin",
+      source: "Estados Unidos",
+      description: "Nas florestas ao norte de Winterfell, forças sobrenaturais se espalham por trás da Muralha que protege a região. E, nas Cidades Livres, o jovem Rei Dragão exilado na Rebelião de Robert planeja sua vingança e deseja recuperar sua herança de família: o Trono de Ferro de Westeros.",
+      preview: "Tenha acesso ao primeiro capítulo do livro por tempo determinado e aproveite sua experiência.",
+      price: 42.00
     }
   },
   {
     id: 3,
-    name: "Cidade dos Ossos",
-    genre: "Fantasia/Aventura",
-    year: "16",
-    rating: 4,
-    image: cidadeDosOssos,
+    name: "Diário de um Banana",
+    genre: "Ficção Científica",
+    year: "13",
+    rating: 2,
+    image: banana,
     details: {
-      image: cidadeDosOssos,
-      title_original: "",
-      genre: "",
-      author: "",
-      source: "",
-      description: "",
-      preview: "",
-      price: 0.0
+      image: banana,
+      title_original: "Diary of a Wimpy Kid",
+      genre: "Ficção Científica",
+      author: "Jeff Kinney",
+      source: "Estados Unidos",
+      description: "A série conta a história de Greg Heffley, um garoto da sexta série que ganha um diário de sua mãe e começa a relatar os seus dias e suas aventuras.",
+      preview: "Tenha acesso ao primeiro capítulo do livro por tempo determinado e aproveite sua experiência.",
+      price: 19.90
     }
   },
 ]
