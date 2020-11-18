@@ -8,7 +8,7 @@
 
 ## :clapper: Preview
 
-<h1 align="center">
+<h1 align="center" style="width: 379px">
   <img src="./github/preview.gif">
 </h1>
 
