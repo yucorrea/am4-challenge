@@ -1,3 +1,16 @@
+<h3 align="center" style="color: #f7ab21">
+  AM4 - Challenge
+</h3>
+
+<h1 align="center">
+  <img src="./github/Mockup.png">
+</h1>
+
+## :clapper: Preview
+
+<h1 align="center">
+  <img src="./github/preview.gif">
+</h1>
 
 ## :page_with_curl: About
 
@@ -9,10 +22,10 @@
 
 - [React Native](https://reactnative.dev/)
 - [React Navigation](https://reactnavigation.org/)
-- [Styled-components](https://styled-components.com/)
-- [Vector-Icons](https://github.com/oblador/react-native-vector-icons)
+- [Styled Components](https://styled-components.com/)
+- [Vector Icons](https://github.com/oblador/react-native-vector-icons)
 - [Typescript](https://www.typescriptlang.org/)
-
+- [SplashScreen](https://github.com/crazycodeboy/react-native-splash-screen)
 ---
 ## :file_folder: How to install
 

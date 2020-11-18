@@ -1,10 +1,7 @@
 import React from 'react';
-
-
 import AntDesign from "react-native-vector-icons/AntDesign";
 import { colors } from "../../constraints";
 import Rating from "../../components/Rating";
-
 
 import {
    Container,
@@ -13,7 +10,6 @@ import {
    BookTitle,
    BookGenre,
    BookAge,
-   BookStars,
    BookDownload,
    BookDownloadText
   } from './styles';

@@ -8,7 +8,7 @@ import SimpleLineIcons from "react-native-vector-icons/SimpleLineIcons";
 import { createBottomTabNavigator } from "@react-navigation/bottom-tabs";
 import StoreRoutes from "./store.route";
 
-import { colors, fonts } from "../constraints"
+import { colors, fonts } from "../constraints";
 const Tab = createBottomTabNavigator();
 
 const icons : any = {

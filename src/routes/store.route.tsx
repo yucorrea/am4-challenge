@@ -11,7 +11,6 @@ const {Navigator, Screen } = createStackNavigator();
 
 const StoreRoutes: React.FC = () => {
 
-
   return (
     <Navigator
       screenOptions={{

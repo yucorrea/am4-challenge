@@ -3,7 +3,7 @@ import { FlatList, TouchableOpacity, RefreshControl } from "react-native";
 
 import { useNavigation } from "@react-navigation/native";
 
-import {books} from "../../mock/data"
+import {books} from "../../mock/data";
 import { Container, Title } from './styles';
 
 import {colors} from "../../constraints";

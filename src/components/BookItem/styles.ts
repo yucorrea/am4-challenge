@@ -36,8 +36,7 @@ export const BookAge = styled.Text`
   font-size: 12px;
   text-transform: uppercase;
 `
-export const BookStars = styled.Text`
-`
+
 export const BookDownload = styled.TouchableOpacity`
   width: 100%;
   padding: 8px;
@@ -55,6 +54,8 @@ export const BookDownloadText = styled.Text`
   font-size: 12px;
   text-transform: uppercase;
   color: ${colors.primary};
-  margin-left: 8px;
+  margin-left: 2px;
+  text-align: center;
+
 
 `
